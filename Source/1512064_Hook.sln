@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hook", "Hook\Hook.vcxproj", "{3802CEC4-C228-4DC0-A0C3-A554348B9470}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookMouse", "HookMouse\HookMouse.vcxproj", "{54C9A5ED-650A-4D21-8415-3746123338B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3802CEC4-C228-4DC0-A0C3-A554348B9470}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3802CEC4-C228-4DC0-A0C3-A554348B9470}.Debug|Win32.Build.0 = Debug|Win32
+		{3802CEC4-C228-4DC0-A0C3-A554348B9470}.Release|Win32.ActiveCfg = Release|Win32
+		{3802CEC4-C228-4DC0-A0C3-A554348B9470}.Release|Win32.Build.0 = Release|Win32
+		{54C9A5ED-650A-4D21-8415-3746123338B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54C9A5ED-650A-4D21-8415-3746123338B1}.Debug|Win32.Build.0 = Debug|Win32
+		{54C9A5ED-650A-4D21-8415-3746123338B1}.Release|Win32.ActiveCfg = Release|Win32
+		{54C9A5ED-650A-4D21-8415-3746123338B1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
